@@ -74,3 +74,6 @@ pip install requests
 ## 致谢
 项目基于EggyUI Desktop Pet修改
 https://github.com/PidanEggyTeam/EggyUI-Desktop-Pet
+
+##免责声明
+本项目使用的部分元素（如示例桌宠、示例预设词）均来源于合法公开渠道。如有侵权，联系：xiaochen@chenxiy.top
