@@ -22,7 +22,6 @@ A Simple and Unadorned ChatUI
 
 ```
 python3 int.py
-
 ```
 
 ## 如何配置？
@@ -71,5 +70,7 @@ A:目前已知问题是可能没有安装requests，输入以下命令
 
 ```
 pip install requests
-
 ```
+## 致谢
+项目基于EggyUI Desktop Pet修改
+https://github.com/PidanEggyTeam/EggyUI-Desktop-Pet
